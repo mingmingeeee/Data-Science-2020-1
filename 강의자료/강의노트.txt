@@ -1,0 +1,12 @@
+
+python 기초, numpy
+https://colab.research.google.com/drive/1INRs3tdFOnmS_Ks42mkELFNg-J52VTt0
+
+data set, data 처리
+https://colab.research.google.com/drive/1OwwHVI4Mcxu2SiCpB0Q1oOLRsnymCZz5?usp=sharing
+
+text 분류
+https://colab.research.google.com/drive/1WFmmHWwJwa76GA5lGYuiV-8biBAxK-6G?usp=sharing
+
+이미지 세그멘테이션
+https://colab.research.google.com/drive/1-Tz8e2ahSICNhMox1COYjCtTRzlYI0mS?usp=sharing
